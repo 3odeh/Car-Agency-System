@@ -17,6 +17,9 @@ The Car Agency System is an application that manages the inventory of a car agen
 
 
 ## Screenshots
+![p1](https://github.com/3odeh/Car-Agency-System/assets/111912140/46ea28a2-cee3-4754-82c0-a42557c14809)
+
+Login screen
 ![login](https://github.com/3odeh/Car-Agency-System/assets/111912140/977680dd-c026-4f3e-b1a3-aaaf51b04d6d)
 
 Customer Screens
