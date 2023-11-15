@@ -1,11 +1,11 @@
 # Car Agency System
 
 ## Description
-The Car Agency System is an application that manages the inventory of a car agency. It includes various features such as reading and saving car data from a file, processing customer orders in a queue, storing sold cars in a stack, and providing options to add, delete, update, and search for car brands and cars within a brand. Customers can navigate through car brands, place orders, and use filters to limit search results. The admin can process orders, remove sold cars from the inventory, and generate a report of the last 10 sold cars. The system utilizes LinkedLists, Queues, and Stacks for data storage and requires the implementation of a graphical user interface (GUI) using JavaFX.
+The Car Agency System is an application that manages the inventory of a car agency. It includes various features such as reading and saving car data from a file , processing customer orders in a queue, storing sold cars in a stack, and providing options to add, delete, update, and search for car brands and cars within a brand. Customers can navigate through car brands, place orders, and use filters to limit search results. The admin can process orders, remove sold cars from the inventory, and generate a report of the last 10 sold cars. The system utilizes LinkedLists, Queues, and Stacks for data storage and requires the implementation of a graphical user interface (GUI) using JavaFX.
 
 ## Features
-- Read cars data from a file and save it back to the file.
-- Read customers' orders from a file and save them back to the file.
+- Read cars data from a file and save it back to the file (cars.txt).
+- Read customers' orders from a file and save them back to the file (orders.txt).
 - Add, delete, update, and search car brands.
 - Add, delete, update, and search cars within a brand.
 - Navigate car brands and available cars, and place orders in the order queue.
